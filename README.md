@@ -1,2 +1,1 @@
-# profile
-That's the repository i use for storing my profile-related stuff
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=YOUR_USERNAME)
